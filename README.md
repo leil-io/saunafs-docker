@@ -35,6 +35,9 @@ password YOUR_PASSWORD
 
 This file is used to securely provide authentication for accessing the private SaunaFS APT repository during the Docker image build process.
 
+> **Note:**  
+> If you would like to have your own access key to the SaunaFS APT repositories, please send an email requesting them to [contact@saunafs.com](mailto:contact@saunafs.com).
+
 Then, open terminal/console and execute the following command to build and start the services:
 
 ```shell
